@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Generated skills (optional - users may want to track their own)
+# skills/
+
+# Logs
+*.log
+npm-debug.log*
